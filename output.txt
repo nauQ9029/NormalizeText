@@ -1,0 +1,1 @@
+This is a simple text. It has some spaces before and after punctuation marks, like this. Quotes may have irregular spacing: "hello world". Ensure a dot at the end of this document.
